@@ -134,8 +134,13 @@ This project demonstrates how simple computational rules can give rise to biolog
 
 <!-- Bibliography -->
 ## Bibliography 
-NConway, J. H. 1970. The Game of Life. Scientific American 223, 4 (1970), 120-123.
-Wolfram, S. 2002. A New Kind of Science. Wolfram Media.
+Conway, J. H. 1970. The Game of Life. Scientific American 223, 4 (1970), 120–123.
+Dixon, D. 1981. After Man: A Zoology of the Future. St. Martin’s Press.
+Anadol, R. Various Works. [Data Sculptures and Generative Environments]. Accessible via: https://refikanadol.com/
+Haeckel, E. 1904. Art Forms in Nature. Bibliographisches Institut.
+Oxman, N. Various Projects. [Procedural Design and Bio-Art]. Accessible via: https://neri.media.mit.edu/
+Conway, J. H., Gardner, M. 1970. Mathematical Games: The fantastic combinations of John Conway’s new solitaire game “life.” Scientific American, 223, 4 (1970), 120–123.
+Naish, D., Conway, J., and Kosemen, C. M. 2013. All Yesterdays: Unique and Speculative Views of Dinosaurs and Other Prehistoric Animals. Irregular Books.
 
 
 
