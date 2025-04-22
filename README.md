@@ -102,8 +102,6 @@ Figure 9. an image of the phyisical 3d printed form
 Figure 10.  an image of the phyisical 3d printed form
 
 
-[![4-comma][Future]](https://example.com)
-Figure 10.  an image of the phyisical 3d printed form
 
 
 
@@ -178,7 +176,6 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [Main]: images/Main.png
 [Methodology1]: Images/Methodology1.jpg
 [Canvas]: images/Canvas.PNG
-[Future]: images/Future.jpg
 [Can1]: images/Can1.png
 [Can2]: images/Can2.png
 [Can3]: images/Can3.png
@@ -192,7 +189,6 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [F1]: images/F1.png
 [F2]: images/F2.png
 [Future]: images/Future.png
-
 [RenTest]: images/RenTest.png
 
 
