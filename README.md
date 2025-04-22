@@ -39,7 +39,7 @@ Assignment 3, VIZA 626 Generative Art &amp; Design ( Spring 2025)
 
 [![4-comma][Main]](https://example.com)
 
-Figure 1. This image render is a represenation of some of the iterations of my scripts!
+Figure 1. Still Renders of the final Project/ Seed 49/ Iteration 60
 <!-- Abstract -->
 ## Abstract
 This project explores speculative evolution through a 3D implementation of Conway’s Game of Life, using procedural simulation to generate unfamiliar (extratrastrial)  organic forms. By applying a volumetric optimized workflow , the raw cellular structures are smoothed into unified, bone-like geometries that evoke alien biological systems. The resulting forms, (strange yet organic) are 3D printed as fossil-like artifacts, offering a tangible look into hypothetical generated structures. This process blurs the line between artificial life, evolutionary theory, and digital fabrication, suggesting a new direction for computational bio-art. The work demonstrates how simple rules can simulate complex biological emergence and challenge perceptions of the organic.
