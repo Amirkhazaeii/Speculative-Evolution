@@ -79,55 +79,59 @@ The smoothed geometry were then prepared for 3D printing by converting form into
 
 Throughout the process, the project maintained a speculative design lens, treating the generated artifacts not just as abstract sculptures, but as structures of fictional of species from an alternate biology. This narrative context deepened the work's relationship to speculative evolution, turning algorithmic outputs into conceptual artifacts. The project was exploriung the intersection of evolutionary biology, procedural design.
 
-[![4-comma][0]](https://example.com)
-Figure 4. Iteration: 0, Seed: 96  
-
-[![4-comma][1]](https://example.com)
-Figure 5. Iteration: 1, Seed: 96 
-
-[![4-comma][2]](https://example.com)
-Figure 6. Iteration: 2, Seed: 96 
-
-[![4-comma][3]](https://example.com)
-Figure 7. Iteration: 3, Seed: 96 
-
-[![4-comma][4]](https://example.com)
-Figure 8. Iteration: 4, Seed: 96 
-
-[![4-comma][5]](https://example.com)
-Figure 9. Iteration: 5, Seed: 96 
-
-[![4-comma][6]](https://example.com)
-Figure 10. Iteration: 6, Seed: 96 
-
-[![4-comma][7]](https://example.com)
-Figure 11. Iteration: 7, Seed: 96 
-
-[![4-comma][8]](https://example.com)
-Figure 12. Iteration: 8, Seed: 96 
-
-[![4-comma][9]](https://example.com)
-Figure 13. Iteration: 9, Seed: 96 
-
-[![4-comma][10]](https://example.com)
-Figure 14. Iteration: 10, Seed: 96 
-
-
 Mathematcial Models used in the Grasshopper script:
 Anemone Loop: X(n+1) = f(X(n))
 Proximity 2d Formula for findinfg the neighbours
 PQ = d = √ [(x2 – x1)2 + (y2 – y1)2 + (z2 – z1)2].
 
 
+## Digital Fabrication
+
+The smoothed geometry were then prepared for 3D printing by converting form into high-resolution meshes and optimizing them for physical fabrication. The printed result exhibit forms that appear skeletal, coral-like, or alien fossils shapoe suggesting life forms shaped by unfamiliar evolutionary forces.
+
+[![4-comma][F1]](https://example.com)
+Figure 3. Grasshopper Script
+
+[![4-comma][F2]](https://example.com)
+Figure 3. Grasshopper Script
+
+
+[![4-comma][Pic1]](https://example.com)
+Figure 3. Grasshopper Script
+
+[![4-comma][Pic2]](https://example.com)
+Figure 3. Grasshopper Script
+
+
+
 
 
 
 ## Result and Future Work
+
+
+
+[![4-comma][Can6]](https://example.com)
+Figure 3. Grasshopper Script
+
+[![4-comma][Can7]](https://example.com)
+Figure 3. Grasshopper Script
+
+
+
+
+The final artifacts produced through this method are physically 3D printed sculptures that resemble abstract biological remains. Their unfamiliar forms provoke curiosity, resembling vertebrae, bone spurs, or exoskeletal armor from speculative life forms. These shapes are rooted in simple algorithms yet suggest a deep evolutionary history. The project successfully demonstrates that algorithmic systems can serve as a generative base for speculative biology—creating forms that, while not real, feel plausible within a biological framework.
+
+Future directions include expanding the simulation rules to mimic ecological interactions, such as predation or symbiosis, potentially leading to even more complex morphologies. A system could also be introduced to simulate mutation and natural selection, allowing the digital organisms to evolve over time based on survival heuristics. These developments would move the project toward a more dynamic and self-driven model of artificial life.
+
+Another direction lies in the exhibition potential: integrating the simulation into an interactive display or immersive experience, where viewers could explore the generative process in real time. Through this, speculative evolution can shift from a static artifact to a living system—one that invites users to witness and participate in the growth of alien life.
+
 [![4-comma][Future]](https://example.com)
-The results of the 3D cellular automata system reveal intricate and organic forms, evolving through multiple generations based on the initial seed and rule set. The forms exhibit fractal-like growth patterns, with areas of stability and areas of continuous transformation, mirroring natural processes. These forms can be further explored in various design contexts, from architecture to digital art. The iterative nature of the system allows for the generation of both static and dynamic designs, which could be applied to installations or interactive exhibits. Future work could involve integrating additional mathematical models, such as reaction-diffusion systems or L-systems, to add more complexity and realism to the generated forms. Furthermore, the system can be expanded to include material properties and physics simulations to explore how these digital forms can be translated into physical structures.
+Figure 3. Grasshopper Script
+
 
 ## Conclusion
-This project demonstrates the power of cellular automata in generating complex, organic forms through simple iterative rules. By extending Conway's Game of Life into 3D, new possibilities for form-finding in generative design are explored. The results showcase how computational design can draw inspiration from natural processes, creating structures that evolve and adapt over time. Through this exploration, the project highlights the potential for cellular automata as a versatile tool in both creative and architectural practices, with numerous possibilities for future expansion and refinement.
+This project demonstrates how simple computational rules can give rise to biologically suggestive and visually compelling forms. By combining 3D cellular automata, volumetric modeling, and digital fabrication, it transforms abstract data into tangible artifacts of fictional biology. Positioned within the speculative evolution genre, the work bridges art, science, and narrative—inviting reflection on how life could evolve under different conditions. It also showcases the potential of algorithmic design as both an artistic and scientific tool. These emergent forms not only provoke the imagination but also highlight the power of simulation to expand our understanding of life and complexity itself.
 
 <!-- Bibliography -->
 ## Bibliography 
