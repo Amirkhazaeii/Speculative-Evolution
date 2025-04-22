@@ -23,7 +23,7 @@ Assignment 3, VIZA 626 Generative Art &amp; Design ( Spring 2025)
 <div align="center">
   </a>
 
-  <h3 align="center">Cellular Metamorphosis: Evolving 3D Patterns Through Rules </h3>
+  <h3 align="center">Speculative Evolution Through 3D Cellular Automata: Synthtic Bones </h3>
 
   <p align="center">
 This is my final assignment for Generative Art and Design class that explores speculative evolution through a 3D implementation of Conway’s Game of Life, using procedural simulation to generate unfamiliar (extratrastrial)  organic forms
