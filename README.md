@@ -54,7 +54,7 @@ The project draws inspiration from both computational science and speculative bi
 
 ## Methodology
 
-[![4-comma][Methodology1]](https://example.com)
+[![4-comma][Can1]](https://example.com)
 Figure 2. 72 iterations of 3D Game of Life with 6 different seeds.
 
 [![4-comma][Canvas]](https://example.com)
@@ -165,7 +165,7 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [Canvas]: images/Canvas.PNG
 [Future]: images/Future.jpg
 [Can1]: images/Can1.png
-[1]: images/1.jpg
+[1]: images/Can1.png
 [2]: images/2.jpg
 [3]: images/3.jpg
 [4]: images/4.jpg
