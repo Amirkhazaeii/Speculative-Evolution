@@ -126,7 +126,7 @@ Future directions include expanding the simulation rules to mimic ecological int
 Another direction lies in the exhibition potential: integrating the simulation into an interactive display or immersive experience, where viewers could explore the generative process in real time. Through this, speculative evolution can shift from a static artifact to a living system—one that invites users to witness and participate in the growth of alien life.
 
 [![4-comma][Future]](https://example.com)
-Figure 3. Grasshopper Script
+Figure 13. Still image demonstrates the contoured 3D Form
 
 
 ## Conclusion
