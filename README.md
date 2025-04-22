@@ -54,19 +54,18 @@ The project draws inspiration from both computational science and speculative bi
 ## Methodology
 
 [![4-comma][Iteration]](https://example.com)
-Figure 3. Grasshopper Script
-
+Figure 2. The result of the generative pipeline with three different seeds and the same iterationa(20)
 [![4-comma][Can1]](https://example.com)
-Figure 2. 72 iterations of 3D Game of Life with 6 different seeds.
+Figure 3. VDB process operations such as smoothing, erosion, and dilation were used to transform the cubic automata into more cohesive and lifelike surfaces
 
 [![4-comma][Can2]](https://example.com)
-Figure 3. Grasshopper Script
+Figure 4. The initial 3D Cellular Automota Conway's game of life script that has been developed for the previous assignment
 
 [![4-comma][Can3]](https://example.com)
-Figure 3. Grasshopper Script
+Figure 5. Grasshopper Script that demonstrates the result of the simuation with sed number 49 adn 60 iteraiotn (raw voxel cells)
 
 [![4-comma][Can4]](https://example.com)
-Figure 3. Grasshopper Script
+Figure 6. Grasshopper Script that demonstrates the smoothened result of the simuation with sed number 49 adn 60 iteraiotn (raw voxel cells)
 
 
 
@@ -89,17 +88,18 @@ PQ = d = √ [(x2 – x1)2 + (y2 – y1)2 + (z2 – z1)2].
 The smoothed geometry were then prepared for 3D printing by converting form into high-resolution meshes and optimizing them for physical fabrication. The printed result exhibit forms that appear skeletal, coral-like, or alien fossils shapoe suggesting life forms shaped by unfamiliar evolutionary forces.
 
 [![4-comma][F1]](https://example.com)
-Figure 3. Grasshopper Script
+Figure 7. Still render that demonstrates thr Contoured Geometry
 
 [![4-comma][F2]](https://example.com)
-Figure 3. Grasshopper Script
+Figure 8. Still render that demonstrates thr Contoured Geometry
+
 
 
 [![4-comma][Pic1]](https://example.com)
-Figure 3. Grasshopper Script
+Figure 9. an image of the phyisical 3d printed form
 
 [![4-comma][Pic2]](https://example.com)
-Figure 3. Grasshopper Script
+Figure 10.  an image of the phyisical 3d printed form
 
 
 
@@ -111,10 +111,10 @@ Figure 3. Grasshopper Script
 
 
 [![4-comma][Can6]](https://example.com)
-Figure 3. Grasshopper Script
+Figure 11. The script that demonstrates the process of mesh optimization and contouring the shape for 3d printing
 
 [![4-comma][Can7]](https://example.com)
-Figure 3. Grasshopper Script
+Figure 12. The script that demonstrates the process of mesh optimization and contouring the shape for 3d printing with the rhino view port
 
 
 
