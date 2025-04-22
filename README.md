@@ -38,7 +38,7 @@ This is my final assignment for Generative Art and Design class that explores sp
 
 [![4-comma][Main]](https://example.com)
 
-Figure 1. Still Renders of the final Project/ Seed 49/ Iteration 60
+Figure 1. Still Renders of the final Project/ Seed 49/ Iteration 60 that demonstrates the 3D implementation of Conway’s Game of Life, using procedural simulation to generate unfamiliar (extratrastrial) organic forms
 <!-- Abstract -->
 ## Abstract
 This project explores speculative evolution through a 3D implementation of Conway’s Game of Life, using procedural simulation to generate unfamiliar (extratrastrial)  organic forms. By applying a volumetric optimized workflow , the raw cellular structures are smoothed into unified, bone-like geometries that evoke alien biological systems. The resulting forms, (strange yet organic) are 3D printed as fossil-like artifacts, offering a tangible look into hypothetical generated structures. This process blurs the line between artificial life, evolutionary theory, and digital fabrication, suggesting a new direction for computational bio-art. The work demonstrates how simple rules can simulate complex biological emergence and challenge perceptions of the organic.
