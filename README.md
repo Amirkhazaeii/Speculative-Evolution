@@ -165,6 +165,17 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [Canvas]: images/Canvas.PNG
 [Future]: images/Future.jpg
 [Can1]: images/Can1.png
+[Can2]: images/Can2.png
+[Can3]: images/Can3.png
+[Can4]: images/Can4.png
+[Can5]: images/Can5.png
+[Can6]: images/Can6.png
+[Can7]: images/Can7.png
+
+
+
+
+
 [1]: images/Can1.png
 [2]: images/2.jpg
 [3]: images/3.jpg
