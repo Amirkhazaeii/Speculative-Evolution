@@ -121,14 +121,12 @@ Figure 12. The script that demonstrates the process of mesh optimization and con
 
 
 
-The final artifacts produced through this method are physically 3D printed sculptures that resemble abstract biological remains. Their unfamiliar forms provoke curiosity, resembling vertebrae, bone spurs, or exoskeletal armor from speculative life forms. These shapes are rooted in simple algorithms yet suggest a deep evolutionary history. The project successfully demonstrates that algorithmic systems can serve as a generative base for speculative biology—creating forms that, while not real, feel plausible within a biological framework.
+The final artifacts produced through this method are physically 3D printed sculptures that resemble abstract biological remains. Their unfamiliar forms provoke curiosity, bone spurs, or exoskeletal armor from speculative life forms. These shapes are rooted in simple algorithms yet suggest a deep evolutionary history. The project successfully demonstrates that algorithmic systems can serve as a generative base for speculative biology—creating forms that, while not real, feel plausible within a biological framework.
 
-Future directions include expanding the simulation rules to mimic ecological interactions, such as predation or symbiosis, potentially leading to even more complex morphologies. A system could also be introduced to simulate mutation and natural selection, allowing the digital organisms to evolve over time based on survival heuristics. These developments would move the project toward a more dynamic and self-driven model of artificial life.
-
-Another direction lies in the exhibition potential: integrating the simulation into an interactive display or immersive experience, where viewers could explore the generative process in real time. Through this, speculative evolution can shift from a static artifact to a living system—one that invites users to witness and participate in the growth of alien life.
+Future directions include expanding the simulation rules to mimic ecological interactions, such as predation or symbiosis, potentially leading to even more complex morphologies. A system could also be introduced to simulate mutation and natural selection, allowing the digital organisms to evolve over time based on survival heuristics. These developments would move the project toward a more dynamic and self-driven model of artificial life as well as exploring digital fabrication and exploring methods to print solid and transparent layers at the same time.
 
 [![4-comma][Future]](https://example.com)
-Figure 13. Still image demonstrates the contoured 3D Form
+Figure 13. Still image demonstrates the contoured 3D Form for showing the layers with more details
 
 
 ## Conclusion
