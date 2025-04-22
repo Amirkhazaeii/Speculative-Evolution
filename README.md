@@ -57,9 +57,14 @@ The project draws inspiration from both computational science and speculative bi
 [![4-comma][Can1]](https://example.com)
 Figure 2. 72 iterations of 3D Game of Life with 6 different seeds.
 
-[![4-comma][Canvas]](https://example.com)
+[![4-comma][Can2]](https://example.com)
 Figure 3. Grasshopper Script
 
+[![4-comma][Can3]](https://example.com)
+Figure 3. Grasshopper Script
+
+[![4-comma][Can4]](https://example.com)
+Figure 3. Grasshopper Script
 
 
 
