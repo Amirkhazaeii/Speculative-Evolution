@@ -193,20 +193,6 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 
 
 
-
-
-
-
-[1]: images/Can1.png
-[2]: images/2.jpg
-[3]: images/3.jpg
-[4]: images/4.jpg
-[5]: images/5.jpg
-[6]: images/6.jpg
-[7]: images/7.jpg
-[8]: images/8.jpg
-[9]: images/9.jpg
-[10]: images/10.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
