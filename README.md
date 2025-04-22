@@ -26,8 +26,7 @@ Assignment 3, VIZA 626 Generative Art &amp; Design ( Spring 2025)
   <h3 align="center">Cellular Metamorphosis: Evolving 3D Patterns Through Rules </h3>
 
   <p align="center">
- This project is the exploration of form-finding through 3D cellular automata, leveraging Conway's Game of Life rules in a 3D space for generative design , which is a class assignment about creating a generative pipeline!
-    <br />
+This is my final assignment for Generative Art and Design class that explores speculative evolution through a 3D implementation of Conway’s Game of Life, using procedural simulation to generate unfamiliar (extratrastrial)  organic forms
     <a 
     <br />
     <br />
